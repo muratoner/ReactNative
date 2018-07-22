@@ -1,0 +1,2 @@
+# Sorunlar
+- Eğer google maps'i sisteminize entegre ederken hata ile karşılaşıyorsanız [buradaki](https://itnext.io/install-react-native-maps-with-gradle-3-on-android-44f91a70a395) makale ihtiyacınızı giderebilir.
