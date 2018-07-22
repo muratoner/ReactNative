@@ -1,1 +1,1 @@
-# React Native Sample Application and Short Decription
+# React Native Sample Applications and Short Decriptions
