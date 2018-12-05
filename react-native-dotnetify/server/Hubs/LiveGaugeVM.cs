@@ -12,7 +12,7 @@ namespace dotnetify.Hubs
         private const int _timeInterval = 1000;
 
         /*
-         * React-native tarafındaki gauge chart'ımızı beslemek için fake olarak daha üreteceğimiz timer nesnemiz.
+         * React-native tarafındaki gauge chart'ımızı beslemek için fake olarak data üreteceğimiz timer nesnemiz.
          */
         private Timer _timer;
 
